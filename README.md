@@ -1,5 +1,8 @@
 Hi, I'm Pavel and this is my test task
 
+<h3>Tools were used</h3>
+Selenide, TestNG, Maven, Allure, Lombok
+
 <h3>How to run tests on local machine?</h3>
 I'm using GitBash and Maven
 

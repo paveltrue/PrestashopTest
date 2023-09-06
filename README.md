@@ -11,7 +11,7 @@ I'm using GitBash and Maven
     Tests will run.
 <br>
 After tests finished you can see the test results.
-<br> ![alt text](https://ibb.co/WyBpfrx)
+<br> Test result image example: https://ibb.co/WyBpfrx
 
 If you opened this project you can run tests by run 
 suite that located in path: test/resources/suites/order-tests.xml
@@ -19,7 +19,7 @@ suite that located in path: test/resources/suites/order-tests.xml
 <h3>How to generate allure report?</h3>
 1. Run the following command:
 <br> mvn allure:serve
-<br> ![alt text](https://ibb.co/HzSN7HY)
+<br> Allure report image example https://ibb.co/HzSN7HY
    
 <h3>Afterwords</h3>
 <b> Some tests are failed because of bug related 

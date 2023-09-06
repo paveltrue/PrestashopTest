@@ -20,5 +20,4 @@ public class DeliveryAddress {
     @Builder.Default
     private String state = "Alabama";
 
-
 }
